@@ -1,0 +1,12 @@
+# ALU Operations
+ALU_NONE             = 0b0000
+ALU_SHIFTL           = 0b0001
+ALU_SHIFTR           = 0b0010
+ALU_SHIFTR_ARITH     = 0b0011
+ALU_ADD              = 0b0100
+ALU_SUB              = 0b0110
+ALU_AND              = 0b0111
+ALU_OR               = 0b1000
+ALU_XOR              = 0b1001
+ALU_LESS_THAN        = 0b1010
+ALU_LESS_THAN_SIGNED = 0b1011
